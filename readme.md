@@ -11,7 +11,7 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [node.js](https://nodejs.org/en/)
+- [node.js v16](https://nodejs.org/en/)
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [mysql](https://dev.mysql.com/downloads/installer/)
 - [nodemon](https://www.npmjs.com/package/nodemon)
